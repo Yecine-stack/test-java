@@ -1,0 +1,5 @@
+montant,mode,premium,total
+80,STANDARD,false,87
+150,STANDARD,false,150
+40,EXPRESS,true,50
+120,EXPRESS,false,135
